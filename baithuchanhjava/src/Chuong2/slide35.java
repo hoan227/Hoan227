@@ -1,3 +1,4 @@
+package Chuong2;
 import java.io.Console;
 
 public class slide35 {

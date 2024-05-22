@@ -1,3 +1,4 @@
+package Chuong2;
 public class slide55 {
     public static void main(String[] args) {
         System.out.println("các số  chia hết cho 5 là: ");

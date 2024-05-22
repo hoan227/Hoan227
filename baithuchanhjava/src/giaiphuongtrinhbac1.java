@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class giaiphuongtrinhbac1 {
+public class giaiphuongtrinhbac1 implements giaiphuongtrinhbac1 {
 
     public static void main(String[] args) {
       double a,b,x;
